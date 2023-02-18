@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+    color:white;
+
+}
+h1{
+    text-align: center;
+    padding:25px;
+}
+.container-id{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+}
+.text-id{
+    text-align: center;
+    font-size: 1.5em;
+}
+.id{
+
+    margin-left:10px;
+    padding:15px;
+    font-size: 1.5em;
+    text-align: center;
+}
+.buttom-id{
+    text-align:center;
+    background-color:darkred;
+    width:80px;
+    height:40px;
+    font-weight: bolder;
+    padding:10px;
+    border-radius:10px;
+}
+.buttom-id:hover{
+    background-color:red;
+}
+.buttom-click{
+    background:darkgreen;
+    
+}
